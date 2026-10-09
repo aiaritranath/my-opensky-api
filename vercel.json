@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api=:key",
+      "destination": "/api/index?pathkey=:key"
+    }
+  ]
+}

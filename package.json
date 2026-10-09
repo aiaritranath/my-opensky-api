@@ -1,0 +1,14 @@
+{
+  "name": "opensky-private-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Private OpenSky Network API wrapper by Aritra Nath (@its_aritra_nath)",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
